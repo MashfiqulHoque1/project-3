@@ -1,0 +1,37 @@
+body{
+    background-color: violet;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-bottom: 11px;
+    padding-top: 1px;
+}
+
+.div1{
+    text-align: center;
+    color: wheat;
+}
+
+.para1{
+    display: flex;
+    align-items: center;
+    border: 3px solid whitesmoke;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.col2{
+    margin-left: 300px;
+}
+
+.col1{
+    margin-left: 300px;
+}
+
+.p1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
